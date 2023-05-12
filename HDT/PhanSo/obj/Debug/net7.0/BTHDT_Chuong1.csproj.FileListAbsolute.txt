@@ -1,0 +1,15 @@
+D:\IT Language\C#\HDT\BTHDT_Chuong1\bin\Debug\net7.0\BTHDT_Chuong1.exe
+D:\IT Language\C#\HDT\BTHDT_Chuong1\bin\Debug\net7.0\BTHDT_Chuong1.deps.json
+D:\IT Language\C#\HDT\BTHDT_Chuong1\bin\Debug\net7.0\BTHDT_Chuong1.runtimeconfig.json
+D:\IT Language\C#\HDT\BTHDT_Chuong1\bin\Debug\net7.0\BTHDT_Chuong1.dll
+D:\IT Language\C#\HDT\BTHDT_Chuong1\bin\Debug\net7.0\BTHDT_Chuong1.pdb
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\BTHDT_Chuong1.csproj.AssemblyReference.cache
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\BTHDT_Chuong1.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\BTHDT_Chuong1.AssemblyInfoInputs.cache
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\BTHDT_Chuong1.AssemblyInfo.cs
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\BTHDT_Chuong1.csproj.CoreCompileInputs.cache
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\BTHDT_Chuong1.dll
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\refint\BTHDT_Chuong1.dll
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\BTHDT_Chuong1.pdb
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\BTHDT_Chuong1.genruntimeconfig.cache
+D:\IT Language\C#\HDT\BTHDT_Chuong1\obj\Debug\net7.0\ref\BTHDT_Chuong1.dll

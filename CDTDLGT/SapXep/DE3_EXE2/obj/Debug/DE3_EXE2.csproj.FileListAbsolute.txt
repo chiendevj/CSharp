@@ -1,0 +1,14 @@
+D:\SapXep\DE3_EXE2\bin\Debug\DE3_EXE2.exe.config
+D:\SapXep\DE3_EXE2\obj\Debug\DE3_EXE2.csprojResolveAssemblyReference.cache
+D:\SapXep\DE3_EXE2\bin\Debug\DE3_EXE2.exe
+D:\SapXep\DE3_EXE2\bin\Debug\DE3_EXE2.pdb
+D:\SapXep\DE3_EXE2\obj\Debug\DE3_EXE2.exe
+D:\SapXep\DE3_EXE2\obj\Debug\DE3_EXE2.pdb
+H:\IT_Language\C#\CDTDLGT\SapXep\DE3_EXE2\bin\Debug\DE3_EXE2.exe.config
+H:\IT_Language\C#\CDTDLGT\SapXep\DE3_EXE2\bin\Debug\DE3_EXE2.exe
+H:\IT_Language\C#\CDTDLGT\SapXep\DE3_EXE2\bin\Debug\DE3_EXE2.pdb
+H:\IT_Language\C#\CDTDLGT\SapXep\DE3_EXE2\obj\Debug\DE3_EXE2.csproj.AssemblyReference.cache
+H:\IT_Language\C#\CDTDLGT\SapXep\DE3_EXE2\obj\Debug\DE3_EXE2.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\CDTDLGT\SapXep\DE3_EXE2\obj\Debug\DE3_EXE2.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\CDTDLGT\SapXep\DE3_EXE2\obj\Debug\DE3_EXE2.exe
+H:\IT_Language\C#\CDTDLGT\SapXep\DE3_EXE2\obj\Debug\DE3_EXE2.pdb

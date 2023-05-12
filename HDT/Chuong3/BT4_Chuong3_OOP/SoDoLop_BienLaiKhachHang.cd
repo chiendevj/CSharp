@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BT4_Chuong3_OOP.KhachHang">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAQQAQABAAEAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>KhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BT4_Chuong3_OOP.BienLai">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAEAAAAAEBAAAAAAAAAAAAQAAAAAAAQA=</HashCode>
+      <FileName>BienLai.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

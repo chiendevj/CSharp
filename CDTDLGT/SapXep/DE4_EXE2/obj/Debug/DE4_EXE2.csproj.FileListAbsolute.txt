@@ -1,0 +1,8 @@
+H:\IT_Language\C#\CDTDLGT\SapXep\DE4_EXE2\bin\Debug\DE4_EXE2.exe.config
+H:\IT_Language\C#\CDTDLGT\SapXep\DE4_EXE2\bin\Debug\DE4_EXE2.exe
+H:\IT_Language\C#\CDTDLGT\SapXep\DE4_EXE2\bin\Debug\DE4_EXE2.pdb
+H:\IT_Language\C#\CDTDLGT\SapXep\DE4_EXE2\obj\Debug\DE4_EXE2.csproj.AssemblyReference.cache
+H:\IT_Language\C#\CDTDLGT\SapXep\DE4_EXE2\obj\Debug\DE4_EXE2.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\CDTDLGT\SapXep\DE4_EXE2\obj\Debug\DE4_EXE2.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\CDTDLGT\SapXep\DE4_EXE2\obj\Debug\DE4_EXE2.exe
+H:\IT_Language\C#\CDTDLGT\SapXep\DE4_EXE2\obj\Debug\DE4_EXE2.pdb

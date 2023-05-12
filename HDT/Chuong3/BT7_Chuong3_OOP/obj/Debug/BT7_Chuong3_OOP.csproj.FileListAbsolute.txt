@@ -1,0 +1,8 @@
+H:\IT_Language\CSharp\HDT\Chuong3\BT7_Chuong3_OOP\obj\Debug\BT7_Chuong3_OOP.csproj.AssemblyReference.cache
+H:\IT_Language\CSharp\HDT\Chuong3\BT7_Chuong3_OOP\obj\Debug\BT7_Chuong3_OOP.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\CSharp\HDT\Chuong3\BT7_Chuong3_OOP\obj\Debug\BT7_Chuong3_OOP.csproj.CoreCompileInputs.cache
+H:\IT_Language\CSharp\HDT\Chuong3\BT7_Chuong3_OOP\bin\Debug\BT7_Chuong3_OOP.exe.config
+H:\IT_Language\CSharp\HDT\Chuong3\BT7_Chuong3_OOP\bin\Debug\BT7_Chuong3_OOP.exe
+H:\IT_Language\CSharp\HDT\Chuong3\BT7_Chuong3_OOP\bin\Debug\BT7_Chuong3_OOP.pdb
+H:\IT_Language\CSharp\HDT\Chuong3\BT7_Chuong3_OOP\obj\Debug\BT7_Chuong3_OOP.exe
+H:\IT_Language\CSharp\HDT\Chuong3\BT7_Chuong3_OOP\obj\Debug\BT7_Chuong3_OOP.pdb

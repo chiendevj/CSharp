@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BT6_Chuong3_OOP.BT6_Chuong3_OOP">
+    <Position X="6.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAABAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>BT6_Chuong3_OOP.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BT6_Chuong3_OOP.MonHoc">
+    <Position X="4" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAABAECAACAAAgAAAACAAAAsBA=</HashCode>
+      <FileName>MonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BT6_Chuong3_OOP.SinhVien">
+    <Position X="2" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAABQQAAQABAAAAAAIAgCAAIAAAAAAAAA=</HashCode>
+      <FileName>SinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+H:\IT_Language\C#\ToanRR\TRR_Chuong4\TRR_Chuong4\bin\Debug\TRR_Chuong4.exe.config
+H:\IT_Language\C#\ToanRR\TRR_Chuong4\TRR_Chuong4\bin\Debug\TRR_Chuong4.exe
+H:\IT_Language\C#\ToanRR\TRR_Chuong4\TRR_Chuong4\bin\Debug\TRR_Chuong4.pdb
+H:\IT_Language\C#\ToanRR\TRR_Chuong4\TRR_Chuong4\obj\Debug\TRR_Chuong4.csproj.AssemblyReference.cache
+H:\IT_Language\C#\ToanRR\TRR_Chuong4\TRR_Chuong4\obj\Debug\TRR_Chuong4.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\ToanRR\TRR_Chuong4\TRR_Chuong4\obj\Debug\TRR_Chuong4.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\ToanRR\TRR_Chuong4\TRR_Chuong4\obj\Debug\TRR_Chuong4.exe
+H:\IT_Language\C#\ToanRR\TRR_Chuong4\TRR_Chuong4\obj\Debug\TRR_Chuong4.pdb

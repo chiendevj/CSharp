@@ -1,0 +1,8 @@
+H:\IT_Language\C#\CDTDLGT\FileCSharp\BT3_File\bin\Debug\BT3_File.exe.config
+H:\IT_Language\C#\CDTDLGT\FileCSharp\BT3_File\bin\Debug\BT3_File.exe
+H:\IT_Language\C#\CDTDLGT\FileCSharp\BT3_File\bin\Debug\BT3_File.pdb
+H:\IT_Language\C#\CDTDLGT\FileCSharp\BT3_File\obj\Debug\BT3_File.csproj.AssemblyReference.cache
+H:\IT_Language\C#\CDTDLGT\FileCSharp\BT3_File\obj\Debug\BT3_File.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\CDTDLGT\FileCSharp\BT3_File\obj\Debug\BT3_File.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\CDTDLGT\FileCSharp\BT3_File\obj\Debug\BT3_File.exe
+H:\IT_Language\C#\CDTDLGT\FileCSharp\BT3_File\obj\Debug\BT3_File.pdb

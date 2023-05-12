@@ -1,0 +1,8 @@
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\MayTinh\bin\Debug\MayTinh.exe.config
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\MayTinh\bin\Debug\MayTinh.exe
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\MayTinh\bin\Debug\MayTinh.pdb
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\MayTinh\obj\Debug\BT8Chuong2.csproj.AssemblyReference.cache
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\MayTinh\obj\Debug\BT8Chuong2.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\MayTinh\obj\Debug\BT8Chuong2.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\MayTinh\obj\Debug\MayTinh.exe
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\MayTinh\obj\Debug\MayTinh.pdb

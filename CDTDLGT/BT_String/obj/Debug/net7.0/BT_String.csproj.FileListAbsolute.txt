@@ -1,0 +1,15 @@
+H:\IT Language\C#\CDTDLGT\BT_String\bin\Debug\net7.0\BT_String.exe
+H:\IT Language\C#\CDTDLGT\BT_String\bin\Debug\net7.0\BT_String.deps.json
+H:\IT Language\C#\CDTDLGT\BT_String\bin\Debug\net7.0\BT_String.runtimeconfig.json
+H:\IT Language\C#\CDTDLGT\BT_String\bin\Debug\net7.0\BT_String.dll
+H:\IT Language\C#\CDTDLGT\BT_String\bin\Debug\net7.0\BT_String.pdb
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\BT_String.csproj.AssemblyReference.cache
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\BT_String.GeneratedMSBuildEditorConfig.editorconfig
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\BT_String.AssemblyInfoInputs.cache
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\BT_String.AssemblyInfo.cs
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\BT_String.csproj.CoreCompileInputs.cache
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\BT_String.dll
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\refint\BT_String.dll
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\BT_String.pdb
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\BT_String.genruntimeconfig.cache
+H:\IT Language\C#\CDTDLGT\BT_String\obj\Debug\net7.0\ref\BT_String.dll

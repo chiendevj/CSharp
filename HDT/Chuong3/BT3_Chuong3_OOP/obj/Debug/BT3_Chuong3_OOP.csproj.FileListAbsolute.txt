@@ -1,0 +1,6 @@
+D:\Chuong3\BT3_Chuong3_OOP\bin\Debug\BT3_Chuong3_OOP.exe.config
+D:\Chuong3\BT3_Chuong3_OOP\bin\Debug\BT3_Chuong3_OOP.exe
+D:\Chuong3\BT3_Chuong3_OOP\bin\Debug\BT3_Chuong3_OOP.pdb
+D:\Chuong3\BT3_Chuong3_OOP\obj\Debug\BT3_Chuong3_OOP.csprojResolveAssemblyReference.cache
+D:\Chuong3\BT3_Chuong3_OOP\obj\Debug\BT3_Chuong3_OOP.exe
+D:\Chuong3\BT3_Chuong3_OOP\obj\Debug\BT3_Chuong3_OOP.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BT5_Chuong3_OOP.TTLopHoc">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAEBAAEAAAgAAAAAAAA=</HashCode>
+      <FileName>TTLopHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BT5_Chuong3_OOP.TTMonHoc">
+    <Position X="2.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAECAAiAAAAAAAAAAAABABA=</HashCode>
+      <FileName>TTMonHoc.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BT5_Chuong3_OOP.TTSinhVien">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAABAAAAAAQAAQABAAAAAAAAACAAAAEAAAAAAA=</HashCode>
+      <FileName>TTSinhVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,8 @@
+H:\IT_Language\C#\CDTDLGT\BT5_GTTK\BT5\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+H:\IT_Language\C#\CDTDLGT\BT5_GTTK\BT5\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+H:\IT_Language\C#\CDTDLGT\BT5_GTTK\BT5\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+H:\IT_Language\C#\CDTDLGT\BT5_GTTK\BT5\ConsoleApp1\obj\Debug\BT5.csproj.AssemblyReference.cache
+H:\IT_Language\C#\CDTDLGT\BT5_GTTK\BT5\ConsoleApp1\obj\Debug\BT5.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\CDTDLGT\BT5_GTTK\BT5\ConsoleApp1\obj\Debug\BT5.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\CDTDLGT\BT5_GTTK\BT5\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+H:\IT_Language\C#\CDTDLGT\BT5_GTTK\BT5\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,6 @@
+D:\CTDL_GTTuan7\EXE4_C2\EXE4_C2\bin\Debug\EXE4_C2.exe.config
+D:\CTDL_GTTuan7\EXE4_C2\EXE4_C2\bin\Debug\EXE4_C2.exe
+D:\CTDL_GTTuan7\EXE4_C2\EXE4_C2\bin\Debug\EXE4_C2.pdb
+D:\CTDL_GTTuan7\EXE4_C2\EXE4_C2\obj\Debug\EXE4_C2.csprojResolveAssemblyReference.cache
+D:\CTDL_GTTuan7\EXE4_C2\EXE4_C2\obj\Debug\EXE4_C2.exe
+D:\CTDL_GTTuan7\EXE4_C2\EXE4_C2\obj\Debug\EXE4_C2.pdb

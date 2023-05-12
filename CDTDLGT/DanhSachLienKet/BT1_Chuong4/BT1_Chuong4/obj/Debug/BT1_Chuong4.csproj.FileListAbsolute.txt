@@ -1,0 +1,14 @@
+D:\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\bin\Debug\BT1_Chuong4.exe.config
+D:\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\bin\Debug\BT1_Chuong4.exe
+D:\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\bin\Debug\BT1_Chuong4.pdb
+D:\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\obj\Debug\BT1_Chuong4.exe
+D:\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\obj\Debug\BT1_Chuong4.pdb
+D:\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\obj\Debug\BT1_Chuong4.csprojResolveAssemblyReference.cache
+H:\IT_Language\CSharp\CDTDLGT\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\bin\Debug\BT1_Chuong4.exe.config
+H:\IT_Language\CSharp\CDTDLGT\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\bin\Debug\BT1_Chuong4.exe
+H:\IT_Language\CSharp\CDTDLGT\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\bin\Debug\BT1_Chuong4.pdb
+H:\IT_Language\CSharp\CDTDLGT\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\obj\Debug\BT1_Chuong4.csproj.AssemblyReference.cache
+H:\IT_Language\CSharp\CDTDLGT\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\obj\Debug\BT1_Chuong4.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\CSharp\CDTDLGT\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\obj\Debug\BT1_Chuong4.csproj.CoreCompileInputs.cache
+H:\IT_Language\CSharp\CDTDLGT\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\obj\Debug\BT1_Chuong4.exe
+H:\IT_Language\CSharp\CDTDLGT\DanhSachLienKet\BT1_Chuong4\BT1_Chuong4\obj\Debug\BT1_Chuong4.pdb

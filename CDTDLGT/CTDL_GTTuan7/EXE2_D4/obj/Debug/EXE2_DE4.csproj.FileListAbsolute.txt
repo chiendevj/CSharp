@@ -1,0 +1,14 @@
+D:\CTDL_GTTuan7\EXE2_D4\bin\Debug\EXE2_D4.exe.config
+D:\CTDL_GTTuan7\EXE2_D4\bin\Debug\EXE2_D4.exe
+D:\CTDL_GTTuan7\EXE2_D4\bin\Debug\EXE2_D4.pdb
+D:\CTDL_GTTuan7\EXE2_D4\obj\Debug\EXE2_DE4.csprojResolveAssemblyReference.cache
+D:\CTDL_GTTuan7\EXE2_D4\obj\Debug\EXE2_D4.exe
+D:\CTDL_GTTuan7\EXE2_D4\obj\Debug\EXE2_D4.pdb
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_D4\bin\Debug\EXE2_D4.exe.config
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_D4\bin\Debug\EXE2_D4.exe
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_D4\bin\Debug\EXE2_D4.pdb
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_D4\obj\Debug\EXE2_DE4.csproj.AssemblyReference.cache
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_D4\obj\Debug\EXE2_DE4.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_D4\obj\Debug\EXE2_DE4.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_D4\obj\Debug\EXE2_D4.exe
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_D4\obj\Debug\EXE2_D4.pdb

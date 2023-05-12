@@ -1,0 +1,6 @@
+5
+T#Toan hoc#2000#30000
+V#Van hoc#2005#35000
+H#Hoa hoc#2001#20000
+L#Vat ly#2010#15000
+S#Sinh hoc#2020#30000

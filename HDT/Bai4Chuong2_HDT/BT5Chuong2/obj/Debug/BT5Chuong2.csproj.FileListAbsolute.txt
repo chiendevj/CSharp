@@ -1,0 +1,8 @@
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\BT5Chuong2\bin\Debug\BT5Chuong2.exe.config
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\BT5Chuong2\bin\Debug\BT5Chuong2.exe
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\BT5Chuong2\bin\Debug\BT5Chuong2.pdb
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\BT5Chuong2\obj\Debug\BT5Chuong2.csproj.AssemblyReference.cache
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\BT5Chuong2\obj\Debug\BT5Chuong2.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\BT5Chuong2\obj\Debug\BT5Chuong2.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\BT5Chuong2\obj\Debug\BT5Chuong2.exe
+H:\IT_Language\C#\HDT\Bai4Chuong2_HDT\BT5Chuong2\obj\Debug\BT5Chuong2.pdb

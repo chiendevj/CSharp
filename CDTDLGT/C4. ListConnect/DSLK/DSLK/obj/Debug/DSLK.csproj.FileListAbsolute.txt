@@ -1,0 +1,6 @@
+D:\DSLK\DSLK\bin\Debug\DSLK.exe.config
+D:\DSLK\DSLK\bin\Debug\DSLK.exe
+D:\DSLK\DSLK\bin\Debug\DSLK.pdb
+D:\DSLK\DSLK\obj\Debug\DSLK.csprojResolveAssemblyReference.cache
+D:\DSLK\DSLK\obj\Debug\DSLK.exe
+D:\DSLK\DSLK\obj\Debug\DSLK.pdb

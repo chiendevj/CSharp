@@ -1,0 +1,15 @@
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\bin\Debug\net7.0\BT1_DateTime.exe
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\bin\Debug\net7.0\BT1_DateTime.deps.json
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\bin\Debug\net7.0\BT1_DateTime.runtimeconfig.json
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\bin\Debug\net7.0\BT1_DateTime.dll
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\bin\Debug\net7.0\BT1_DateTime.pdb
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\BT1_DateTime.csproj.AssemblyReference.cache
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\BT1_DateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\BT1_DateTime.AssemblyInfoInputs.cache
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\BT1_DateTime.AssemblyInfo.cs
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\BT1_DateTime.csproj.CoreCompileInputs.cache
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\BT1_DateTime.dll
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\refint\BT1_DateTime.dll
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\BT1_DateTime.pdb
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\BT1_DateTime.genruntimeconfig.cache
+D:\IT Language\C#\CDTDLGT\BT1_DateTime\obj\Debug\net7.0\ref\BT1_DateTime.dll

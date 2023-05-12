@@ -1,0 +1,13 @@
+D:\CTDL_GTTuan7\EXE2_DE3\bin\Debug\EXE2_DE3.exe.config
+D:\CTDL_GTTuan7\EXE2_DE3\bin\Debug\EXE2_DE3.exe
+D:\CTDL_GTTuan7\EXE2_DE3\bin\Debug\EXE2_DE3.pdb
+D:\CTDL_GTTuan7\EXE2_DE3\obj\Debug\EXE2_DE3.exe
+D:\CTDL_GTTuan7\EXE2_DE3\obj\Debug\EXE2_DE3.pdb
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_DE3\bin\Debug\EXE2_DE3.exe.config
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_DE3\bin\Debug\EXE2_DE3.exe
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_DE3\bin\Debug\EXE2_DE3.pdb
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_DE3\obj\Debug\EXE2_DE3.csproj.AssemblyReference.cache
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_DE3\obj\Debug\EXE2_DE3.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_DE3\obj\Debug\EXE2_DE3.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_DE3\obj\Debug\EXE2_DE3.exe
+H:\IT_Language\C#\CDTDLGT\CTDL_GTTuan7\EXE2_DE3\obj\Debug\EXE2_DE3.pdb

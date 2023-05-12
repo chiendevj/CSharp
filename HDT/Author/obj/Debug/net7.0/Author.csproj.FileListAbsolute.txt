@@ -1,0 +1,15 @@
+H:\IT Language\C#\HDT\Author\bin\Debug\net7.0\Author.exe
+H:\IT Language\C#\HDT\Author\bin\Debug\net7.0\Author.deps.json
+H:\IT Language\C#\HDT\Author\bin\Debug\net7.0\Author.runtimeconfig.json
+H:\IT Language\C#\HDT\Author\bin\Debug\net7.0\Author.dll
+H:\IT Language\C#\HDT\Author\bin\Debug\net7.0\Author.pdb
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\Author.csproj.AssemblyReference.cache
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\Author.GeneratedMSBuildEditorConfig.editorconfig
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\Author.AssemblyInfoInputs.cache
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\Author.AssemblyInfo.cs
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\Author.csproj.CoreCompileInputs.cache
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\Author.dll
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\refint\Author.dll
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\Author.pdb
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\Author.genruntimeconfig.cache
+H:\IT Language\C#\HDT\Author\obj\Debug\net7.0\ref\Author.dll

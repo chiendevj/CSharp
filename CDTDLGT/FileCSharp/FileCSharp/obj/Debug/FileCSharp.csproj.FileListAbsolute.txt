@@ -1,0 +1,8 @@
+H:\IT_Language\C#\CDTDLGT\FileCSharp\FileCSharp\bin\Debug\FileCSharp.exe.config
+H:\IT_Language\C#\CDTDLGT\FileCSharp\FileCSharp\bin\Debug\FileCSharp.exe
+H:\IT_Language\C#\CDTDLGT\FileCSharp\FileCSharp\bin\Debug\FileCSharp.pdb
+H:\IT_Language\C#\CDTDLGT\FileCSharp\FileCSharp\obj\Debug\FileCSharp.csproj.AssemblyReference.cache
+H:\IT_Language\C#\CDTDLGT\FileCSharp\FileCSharp\obj\Debug\FileCSharp.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\C#\CDTDLGT\FileCSharp\FileCSharp\obj\Debug\FileCSharp.csproj.CoreCompileInputs.cache
+H:\IT_Language\C#\CDTDLGT\FileCSharp\FileCSharp\obj\Debug\FileCSharp.exe
+H:\IT_Language\C#\CDTDLGT\FileCSharp\FileCSharp\obj\Debug\FileCSharp.pdb
