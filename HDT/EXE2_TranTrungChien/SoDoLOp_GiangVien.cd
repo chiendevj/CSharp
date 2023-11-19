@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EXE2_TranTrungChien.GiangVien" Collapsed="true">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAQAEAAAAA=</HashCode>
+      <FileName>GiangVien.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXE2_TranTrungChien.GiangVienBienChe">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgCAAAAAABAAAAAAAAAAAAAAAEEAAgAA=</HashCode>
+      <FileName>GiangVienBienChe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXE2_TranTrungChien.Nguoi">
+    <Position X="7" Y="1" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAQABAAEAAAAAAgQAAAAAAAACAA=</HashCode>
+      <FileName>Nguoi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXE2_TranTrungChien.GiangVienHopDong">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIABAAACAAAAAAAAAAADAAAAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>GiangVienHopDong.cs</FileName>
+      <NewMemberFileName>GiangvienHopDong.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

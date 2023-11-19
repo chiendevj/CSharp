@@ -1,0 +1,15 @@
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/bin/Debug/net6.0/ONTAPCUOIKI3
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/bin/Debug/net6.0/ONTAPCUOIKI3.deps.json
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/bin/Debug/net6.0/ONTAPCUOIKI3.runtimeconfig.json
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/bin/Debug/net6.0/ONTAPCUOIKI3.dll
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/bin/Debug/net6.0/ref/ONTAPCUOIKI3.dll
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/bin/Debug/net6.0/ONTAPCUOIKI3.pdb
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/obj/Debug/net6.0/ONTAPCUOIKI3.csproj.AssemblyReference.cache
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/obj/Debug/net6.0/ONTAPCUOIKI3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/obj/Debug/net6.0/ONTAPCUOIKI3.AssemblyInfoInputs.cache
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/obj/Debug/net6.0/ONTAPCUOIKI3.AssemblyInfo.cs
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/obj/Debug/net6.0/ONTAPCUOIKI3.csproj.CoreCompileInputs.cache
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/obj/Debug/net6.0/ONTAPCUOIKI3.dll
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/obj/Debug/net6.0/ref/ONTAPCUOIKI3.dll
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/obj/Debug/net6.0/ONTAPCUOIKI3.pdb
+/home/nguyen/Desktop/Learn TDC/OOP/ONTAPCUOIKI3/obj/Debug/net6.0/ONTAPCUOIKI3.genruntimeconfig.cache

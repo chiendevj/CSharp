@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\TimDuongDiNganNhat\bin\Debug\TimDuongDiNganNhat.exe.config
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\TimDuongDiNganNhat\bin\Debug\TimDuongDiNganNhat.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\TimDuongDiNganNhat\bin\Debug\TimDuongDiNganNhat.pdb
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\TimDuongDiNganNhat\obj\Debug\TimDuongDiNganNhat.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\TimDuongDiNganNhat\obj\Debug\TimDuongDiNganNhat.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\TimDuongDiNganNhat\obj\Debug\TimDuongDiNganNhat.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\TimDuongDiNganNhat\obj\Debug\TimDuongDiNganNhat.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\TimDuongDiNganNhat\obj\Debug\TimDuongDiNganNhat.pdb

@@ -1,0 +1,14 @@
+D:\C5\bin\Debug\C5.exe.config
+D:\C5\bin\Debug\C5.exe
+D:\C5\bin\Debug\C5.pdb
+D:\C5\obj\Debug\BT1_Ch5.csprojResolveAssemblyReference.cache
+D:\C5\obj\Debug\C5.exe
+D:\C5\obj\Debug\C5.pdb
+E:\IT_Language\CSharp\HDT\C5\bin\Debug\C5.exe.config
+E:\IT_Language\CSharp\HDT\C5\bin\Debug\C5.exe
+E:\IT_Language\CSharp\HDT\C5\bin\Debug\C5.pdb
+E:\IT_Language\CSharp\HDT\C5\obj\Debug\BT1_Ch5.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\HDT\C5\obj\Debug\BT1_Ch5.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\HDT\C5\obj\Debug\BT1_Ch5.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\HDT\C5\obj\Debug\C5.exe
+E:\IT_Language\CSharp\HDT\C5\obj\Debug\C5.pdb

@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\CDTDLGT\Practice\ONTAP1\bin\Debug\ONTAP1.exe.config
+E:\IT_Language\CSharp\CDTDLGT\Practice\ONTAP1\bin\Debug\ONTAP1.exe
+E:\IT_Language\CSharp\CDTDLGT\Practice\ONTAP1\bin\Debug\ONTAP1.pdb
+E:\IT_Language\CSharp\CDTDLGT\Practice\ONTAP1\obj\Debug\ONTAP1.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\ONTAP1\obj\Debug\ONTAP1.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\ONTAP1\obj\Debug\ONTAP1.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\ONTAP1\obj\Debug\ONTAP1.exe
+E:\IT_Language\CSharp\CDTDLGT\Practice\ONTAP1\obj\Debug\ONTAP1.pdb

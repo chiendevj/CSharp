@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\CDTDLGT\BTOnTap_Ch5\BT_LinkedListBasic\bin\Debug\BT_LinkedListBasic.exe.config
+E:\IT_Language\CSharp\CDTDLGT\BTOnTap_Ch5\BT_LinkedListBasic\bin\Debug\BT_LinkedListBasic.exe
+E:\IT_Language\CSharp\CDTDLGT\BTOnTap_Ch5\BT_LinkedListBasic\bin\Debug\BT_LinkedListBasic.pdb
+E:\IT_Language\CSharp\CDTDLGT\BTOnTap_Ch5\BT_LinkedListBasic\obj\Debug\BT_LinkedListBasic.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\CDTDLGT\BTOnTap_Ch5\BT_LinkedListBasic\obj\Debug\BT_LinkedListBasic.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\CDTDLGT\BTOnTap_Ch5\BT_LinkedListBasic\obj\Debug\BT_LinkedListBasic.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\CDTDLGT\BTOnTap_Ch5\BT_LinkedListBasic\obj\Debug\BT_LinkedListBasic.exe
+E:\IT_Language\CSharp\CDTDLGT\BTOnTap_Ch5\BT_LinkedListBasic\obj\Debug\BT_LinkedListBasic.pdb

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BT4_Ch4.Employee">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEACEAAAAgAAAAEABAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BT4_Ch4.HourlyEmployee">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="BT4_Ch4.Employee" ManuallyRouted="true">
+      <Path>
+        <Point X="5" Y="3.661" />
+        <Point X="5" Y="3.973" />
+        <Point X="4.26" Y="3.973" />
+        <Point X="4.26" Y="4.609" />
+        <Point X="3.385" Y="4.609" />
+        <Point X="3.385" Y="3.885" />
+        <Point X="2.594" Y="3.885" />
+        <Point X="2.594" Y="3.376" />
+        <Point X="1.25" Y="3.376" />
+        <Point X="1.25" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>QIAAAAACAAAAAAAAAAAABAAAAAAAAAAAAAAAAQAAAAE=</HashCode>
+      <FileName>HourlyEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BT4_Ch4.SalariedEmployee">
+    <Position X="6.75" Y="2.25" Width="1.75" />
+    <InheritanceLine Type="BT4_Ch4.Employee" ManuallyRouted="true">
+      <Path>
+        <Point X="5.75" Y="2.955" />
+        <Point X="5.904" Y="2.955" />
+        <Point X="5.904" Y="2.33" />
+        <Point X="6.215" Y="2.33" />
+        <Point X="6.215" Y="3.424" />
+        <Point X="6.524" Y="3.424" />
+        <Point X="6.524" Y="2.059" />
+        <Point X="6.675" Y="2.059" />
+        <Point X="6.675" Y="2.955" />
+        <Point X="6.75" Y="2.955" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AABAAIAKAAAAAAAAAAACBAAAAAAAAAQAAAAAAACAAAA=</HashCode>
+      <FileName>SalariedEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

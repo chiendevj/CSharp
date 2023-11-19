@@ -1,0 +1,12 @@
+D:\HDT\Chuong4_TinhDaHinh\BT4_Ch4\bin\Debug\BT4_Ch4.exe.config
+D:\HDT\Chuong4_TinhDaHinh\BT4_Ch4\obj\Debug\BT4_Ch4.csprojResolveAssemblyReference.cache
+D:\HDT\Chuong4_TinhDaHinh\BT4_Ch4\bin\Debug\BT4_Ch4.exe
+D:\HDT\Chuong4_TinhDaHinh\BT4_Ch4\bin\Debug\BT4_Ch4.pdb
+D:\HDT\Chuong4_TinhDaHinh\BT4_Ch4\obj\Debug\BT4_Ch4.exe
+D:\HDT\Chuong4_TinhDaHinh\BT4_Ch4\obj\Debug\BT4_Ch4.pdb
+D:\Chuong4_TinhDaHinh\BT4_Ch4\bin\Debug\BT4_Ch4.exe.config
+D:\Chuong4_TinhDaHinh\BT4_Ch4\obj\Debug\BT4_Ch4.exe
+D:\Chuong4_TinhDaHinh\BT4_Ch4\obj\Debug\BT4_Ch4.pdb
+D:\Chuong4_TinhDaHinh\BT4_Ch4\bin\Debug\BT4_Ch4.exe
+D:\Chuong4_TinhDaHinh\BT4_Ch4\bin\Debug\BT4_Ch4.pdb
+D:\Chuong4_TinhDaHinh\BT4_Ch4\obj\Debug\BT4_Ch4.csprojResolveAssemblyReference.cache

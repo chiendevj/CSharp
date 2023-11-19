@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\BT3Chap1\bin\Debug\BT3Chap1.exe.config
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\BT3Chap1\bin\Debug\BT3Chap1.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\BT3Chap1\bin\Debug\BT3Chap1.pdb
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\BT3Chap1\obj\Debug\BT3Chap1.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\BT3Chap1\obj\Debug\BT3Chap1.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\BT3Chap1\obj\Debug\BT3Chap1.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\BT3Chap1\obj\Debug\BT3Chap1.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\BT3Chap1\obj\Debug\BT3Chap1.pdb

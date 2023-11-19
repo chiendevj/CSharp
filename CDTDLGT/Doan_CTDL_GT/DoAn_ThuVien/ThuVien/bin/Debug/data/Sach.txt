@@ -1,0 +1,9 @@
+B0123#Dac Nhan Tam#Dale Carnegie#NXB Tong Hop HCM#76000#1936#320#15/05/2023#0
+B0124#Tren Duong Bang#Tony Buoi Sang#NXB Tre#105000#2022#308#15/05/2023#0
+B0125#Nha Gia Kim#Mai Lan Huong#NBX Hoi Nha Van#79000#2020#227#15/05/2023#0
+B0126#Hanh Trang Lap Trinh#Vu Cong Tan Tai#NXB Thanh Nien#179000#2020#300#15/05/2023#0
+B0127#Giao Trinh Autocard#Pham Quang An#NXB Thanh Nien#165000#2022#383#15/05/2023#0
+B0128#Lap Trinh Python#Doan Minh Phung#NBX Tre#80000#2022#200#15/05/2023#0
+B0129#Ca Phe Cung Tony#Tony Buoi Sang#NXB Tre#89250#2022#318#15/05/2023#0
+B0130#Nguoi Con#Georges Simenon#NXB Hoi Nha Van#110500#2022#350#17/05/2023#0
+B0131#Di Tim Le Song#iktor Emil Frankl#XB Tong Hop HCM#66000#2020#224#17/05/2023#0

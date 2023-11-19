@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\CayBaoTrum\CayBaoTrum\bin\Debug\CayBaoTrum.exe.config
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\CayBaoTrum\CayBaoTrum\bin\Debug\CayBaoTrum.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\CayBaoTrum\CayBaoTrum\bin\Debug\CayBaoTrum.pdb
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\CayBaoTrum\CayBaoTrum\obj\Debug\CayBaoTrum.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\CayBaoTrum\CayBaoTrum\obj\Debug\CayBaoTrum.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\CayBaoTrum\CayBaoTrum\obj\Debug\CayBaoTrum.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\CayBaoTrum\CayBaoTrum\obj\Debug\CayBaoTrum.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\CayBaoTrum\CayBaoTrum\obj\Debug\CayBaoTrum.pdb

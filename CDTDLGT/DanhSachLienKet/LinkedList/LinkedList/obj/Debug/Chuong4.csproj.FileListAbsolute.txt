@@ -6,9 +6,3 @@ H:\IT_Language\CSharp\HDT\DanhSachLienKet\LinkedList\LinkedList\obj\Debug\Chuong
 H:\IT_Language\CSharp\HDT\DanhSachLienKet\LinkedList\LinkedList\obj\Debug\Chuong4.csproj.CoreCompileInputs.cache
 H:\IT_Language\CSharp\HDT\DanhSachLienKet\LinkedList\LinkedList\obj\Debug\LinkedList.exe
 H:\IT_Language\CSharp\HDT\DanhSachLienKet\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
-D:\DanhSachLienKet\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
-D:\DanhSachLienKet\LinkedList\LinkedList\obj\Debug\LinkedList.exe
-D:\DanhSachLienKet\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
-D:\DanhSachLienKet\LinkedList\LinkedList\bin\Debug\LinkedList.exe
-D:\DanhSachLienKet\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
-D:\DanhSachLienKet\LinkedList\LinkedList\obj\Debug\Chuong4.csprojResolveAssemblyReference.cache

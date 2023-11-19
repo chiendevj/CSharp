@@ -1,0 +1,6 @@
+D:\BT_OnTap\bin\Debug\BT_OnTap.exe.config
+D:\BT_OnTap\bin\Debug\BT_OnTap.exe
+D:\BT_OnTap\bin\Debug\BT_OnTap.pdb
+D:\BT_OnTap\obj\Debug\BT_OnTap.csprojResolveAssemblyReference.cache
+D:\BT_OnTap\obj\Debug\BT_OnTap.exe
+D:\BT_OnTap\obj\Debug\BT_OnTap.pdb

@@ -1,0 +1,8 @@
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BT4_\bin\Debug\BT4_.exe.config
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BT4_\bin\Debug\BT4_.exe
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BT4_\bin\Debug\BT4_.pdb
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BT4_\obj\Debug\BT4_.csproj.AssemblyReference.cache
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BT4_\obj\Debug\BT4_.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BT4_\obj\Debug\BT4_.csproj.CoreCompileInputs.cache
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BT4_\obj\Debug\BT4_.exe
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BT4_\obj\Debug\BT4_.pdb

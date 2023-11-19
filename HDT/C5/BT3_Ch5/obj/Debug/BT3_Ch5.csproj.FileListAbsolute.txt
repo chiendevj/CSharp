@@ -1,0 +1,14 @@
+D:\C5\BT3_Ch5\bin\Debug\BT3_Ch5.exe.config
+D:\C5\BT3_Ch5\bin\Debug\BT3_Ch5.exe
+D:\C5\BT3_Ch5\bin\Debug\BT3_Ch5.pdb
+D:\C5\BT3_Ch5\obj\Debug\BT3_Ch5.csprojResolveAssemblyReference.cache
+D:\C5\BT3_Ch5\obj\Debug\BT3_Ch5.exe
+D:\C5\BT3_Ch5\obj\Debug\BT3_Ch5.pdb
+D:\Dowload\C5\BT3_Ch5\bin\Debug\BT3_Ch5.exe.config
+D:\Dowload\C5\BT3_Ch5\bin\Debug\BT3_Ch5.exe
+D:\Dowload\C5\BT3_Ch5\bin\Debug\BT3_Ch5.pdb
+D:\Dowload\C5\BT3_Ch5\obj\Debug\BT3_Ch5.csproj.AssemblyReference.cache
+D:\Dowload\C5\BT3_Ch5\obj\Debug\BT3_Ch5.csproj.SuggestedBindingRedirects.cache
+D:\Dowload\C5\BT3_Ch5\obj\Debug\BT3_Ch5.csproj.CoreCompileInputs.cache
+D:\Dowload\C5\BT3_Ch5\obj\Debug\BT3_Ch5.exe
+D:\Dowload\C5\BT3_Ch5\obj\Debug\BT3_Ch5.pdb

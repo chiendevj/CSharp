@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\GraphTheory\LTDT\Project\Project_Graph_Theory\Project_Graph_Theory\bin\Debug\Project_Graph_Theory.exe.config
+E:\IT_Language\CSharp\GraphTheory\LTDT\Project\Project_Graph_Theory\Project_Graph_Theory\bin\Debug\Project_Graph_Theory.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Project\Project_Graph_Theory\Project_Graph_Theory\bin\Debug\Project_Graph_Theory.pdb
+E:\IT_Language\CSharp\GraphTheory\LTDT\Project\Project_Graph_Theory\Project_Graph_Theory\obj\Debug\Project_Graph_Theory.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Project\Project_Graph_Theory\Project_Graph_Theory\obj\Debug\Project_Graph_Theory.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Project\Project_Graph_Theory\Project_Graph_Theory\obj\Debug\Project_Graph_Theory.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Project\Project_Graph_Theory\Project_Graph_Theory\obj\Debug\Project_Graph_Theory.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Project\Project_Graph_Theory\Project_Graph_Theory\obj\Debug\Project_Graph_Theory.pdb

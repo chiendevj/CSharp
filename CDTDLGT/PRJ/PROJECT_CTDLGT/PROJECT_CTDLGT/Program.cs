@@ -13,13 +13,13 @@ namespace PROJECT_CTDLGT
         static void Main(string[] args)
         {
             // Khai báo biến
-            string user = "";
-            string password = "";
-            Sach[] arr = new Sach[5];
-            string pathAdmin = "H:\\IT_Language\\C#\\CDTDLGT\\PRJ\\FIleTXT\\Admin.txt";
+            //string user = "";
+            //string password = "";
+            //Sach[] arr = new Sach[5];
+            //string pathAdmin = "H:\\IT_Language\\C#\\CDTDLGT\\PRJ\\FIleTXT\\Admin.txt";
             HeThong();
-            DangNhapTaiKhoan(user, password, pathAdmin);
-            QuanLiSach(arr);
+            //DangNhapTaiKhoan(user, password, pathAdmin);
+            //QuanLiSach(arr);
         }
         // Ngoài main
         static void QuanLiSach(Sach[] arr)

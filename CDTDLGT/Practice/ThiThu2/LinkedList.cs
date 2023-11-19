@@ -1,0 +1,338 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.InteropServices;
+using System.Runtime.InteropServices.WindowsRuntime;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ThiThu2
+{
+    internal class LinkedList
+    {
+        private Node _first;
+        private Node _last;
+        private int _count;
+
+        public int Size { get => _count; set => _count = value; }
+        internal Node First { get => _first; set => _first = value; }
+        internal Node Last { get => _last; set => _last = value; }
+
+        public LinkedList() 
+        {
+            _first = null;
+            _last = null;
+            _count = 0;
+        }
+        // method
+        /// <summary>
+        /// Add First
+        /// </summary>
+        /// <param name="giayDep"></param>
+        /// <returns></returns>
+        public Node AddFirst(GiayDep giayDep)
+        {
+            Node newNode = new Node(giayDep);
+            if (_count == 0) 
+            {
+                _first = newNode;
+                _last = newNode;
+                _count++;
+               
+            }
+            else
+            {
+                newNode.Next = _first;
+                _first = newNode;
+                _count++;
+            }
+                return newNode;
+        }
+
+        /// AddLast
+        public Node AddLast(GiayDep giayDep)
+        {
+            Node newNode = new Node(giayDep);
+            if (_count == 0)
+            {
+                _first = newNode;
+                _last = newNode;
+                _count++;
+            }
+            else
+            {
+                _last.Next = newNode;
+                _last = newNode;
+                _count++;
+            }
+            return newNode;
+        }
+
+        // AddAfter
+        /// <summary>
+        /// AddAfter
+        /// </summary>
+        /// <param name="pre"></param>
+        /// <param name="giayDep"></param>
+        public void AddAfter(Node pre, GiayDep giayDep)
+        {
+            if (pre != null)
+            {
+                Node newNode = new Node(giayDep);
+                newNode.Next = pre.Next;
+                pre.Next = newNode;
+                if (pre == _last)
+                {
+                    _last = newNode;
+                }
+                _count++;
+            }
+        }
+
+        // AddBefore
+        public void AddBefore(Node pre, GiayDep giayDep)
+        {
+            if (pre != null)
+            {
+                Node newNode = new Node(giayDep);
+                if (pre == _first)
+                {
+                    newNode.Next = _first;
+                    _first = newNode;
+                    _count++;
+
+                }
+                else
+                {
+                    Node newBefore = _first;
+                    while (newBefore.Next != pre)
+                    {
+                        newBefore = newBefore.Next;
+                    }
+                    newNode.Next = newBefore.Next;
+                    newBefore.Next = newBefore;
+                    _count++;
+                }
+              
+            }
+        }
+
+        // remove first
+        public void RemoveFirst()
+        {
+            Node p = _first;
+            if (p != null)
+            {
+                _first = p.Next;
+                if (p == _last)
+                {
+                    _last = p;
+                }
+                _count--;
+            }
+        }
+
+        // removelast
+        public void RemoveLast()
+        {
+            if (_first == _last)
+            {
+                _first = null;
+                _last = null;
+                _count = 0;
+            }
+            else
+            {
+                Node del = _first;
+                while (del.Next != _last)
+                {
+                    del = del.Next;
+                }
+                del.Next = null;
+                _last = del;
+                _count--;
+            }
+        }
+
+        // remove after
+        /// <summary>
+        /// xoa sau
+        /// </summary>
+        /// <param xac dinh vi tri="pre"></param>
+        /// <returns></returns>
+        public void RemoveAfter(Node pre)
+        {
+            if (pre != null & pre != _last)
+            {
+                Node del = pre.Next;
+                if (pre.Next == _last)
+                {
+                    pre.Next = null;
+                    _last = del;
+                    _count--;
+                }
+                else
+                {
+                    del.Next.Next = pre;
+                    _count--;
+                }
+            }
+        }
+
+        public Node RemoveBefore(Node pre)
+        {
+            if (pre != _first && pre != null)
+            {
+                if (_first.Next == pre) // Xóa đầu
+                {
+                    Node del = _first;
+                    _first = pre;
+                    _count--;
+                    return del;  
+                }
+                else
+                {
+                    Node del = _first;
+                    while (del.Next.Next != pre) // tra ve del truoc pre 2 node
+                    {
+                        del = del.Next;
+                    }
+                    del.Next = pre;
+                    _count--;
+                    return del;
+                }
+            }
+            return null;
+        }
+
+        // remove
+        public Node Remove(Node pre)
+        {
+            if (pre != null)
+            {
+                if (pre == _first && _count == 1) // ds 1 phan tu
+                {
+                    _first = null;
+                    _last = null;
+                    _count = 0;
+                   
+                }
+                else // danh sach nhieu phan tu
+                {
+                    if (pre == _first) // xoa ptu dau
+                    {
+                        _first = _first.Next;
+                        _count--;
+                       
+                    }
+                    else if (pre == _last) // xoa pt cuoi cung
+                    {
+                        Node del = _first;
+                        while (del.Next != _last)
+                        {
+                            del = del.Next;
+                        }
+                        del.Next = null;
+                        _last = del;
+                        _count--;
+                       
+                    }
+                    else // xoa 
+                    {
+                        Node del = _first;
+                        while (del.Next != pre)
+                        {
+                            del = del.Next;
+                        }
+                        del.Next = pre.Next;
+                        _count--;
+                        
+                    }
+
+                }
+                return pre;
+            }
+            return null;
+        }
+
+        // remove giay dep
+        public Node Remove(GiayDep giayDep)
+        {
+            Node pre = Find(giayDep.Ma);
+
+            if (pre != null)
+            {
+                if (pre == _first && _count == 1) // ds 1 phan tu
+                {
+                    _first = null;
+                    _last = null;
+                    _count = 0;
+
+                }
+                else // danh sach nhieu phan tu
+                {
+                    if (pre == _first) // xoa ptu dau
+                    {
+                        _first = _first.Next;
+                        _count--;
+
+                    }
+                    else if (pre == _last) // xoa pt cuoi cung
+                    {
+                        Node del = _first;
+                        while (del.Next != _last)
+                        {
+                            del = del.Next;
+                        }
+                        del.Next = null;
+                        _last = del;
+                        _count--;
+
+                    }
+                    else // xoa 
+                    {
+                        Node del = _first;
+                        while (del.Next != pre)
+                        {
+                            del = del.Next;
+                        }
+                        del.Next = pre.Next;
+                        _count--;
+
+                    }
+
+                }
+                return pre;
+            }
+            return null;
+        }
+
+        // find
+        public Node Find(string ma)
+        {
+            for (Node i = _first; i != null; i=i.Next)
+            {
+                if (i.Data.Ma.Equals(ma))
+                {
+                    return i;
+                }
+            }
+            return null;
+        }
+
+        public void ThemSau(Node pre, GiayDep giaydep)
+        {
+            if (pre != null)
+            {
+                Node newNode = new Node(giaydep);
+                newNode.Next = pre.Next;
+                pre.Next = newNode;
+                if (pre == _last)
+                {
+                    _last = pre;
+                }
+                _count++;
+            }
+        }
+    }
+}

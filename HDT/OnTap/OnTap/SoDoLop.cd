@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OnTap.Date">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAACAAEAAAAAACgBAAAAAAQAAAAAAAEAiA=</HashCode>
+      <FileName>Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnTap.XeKhach">
+    <Position X="1.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIACAAAAAgAgAQAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>XeKhach.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnTap.XeHoi" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAEAAAAAAAgAABgAQAAAAAgAAAAAEAAAAAA=</HashCode>
+      <FileName>XeHoi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnTap.XeTai">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAQgIQAAAIAAAAAAAAAAAiAA=</HashCode>
+      <FileName>XeTai.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OnTap.XeTaxi">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAgAQAAAAAAAAEEAAAAAAAA=</HashCode>
+      <FileName>XeTaxi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

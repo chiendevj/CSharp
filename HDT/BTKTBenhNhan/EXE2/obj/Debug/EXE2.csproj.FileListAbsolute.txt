@@ -1,0 +1,8 @@
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\EXE2\bin\Debug\EXE2.exe.config
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\EXE2\bin\Debug\EXE2.exe
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\EXE2\bin\Debug\EXE2.pdb
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\EXE2\obj\Debug\EXE2.csproj.AssemblyReference.cache
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\EXE2\obj\Debug\EXE2.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\EXE2\obj\Debug\EXE2.csproj.CoreCompileInputs.cache
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\EXE2\obj\Debug\EXE2.exe
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\EXE2\obj\Debug\EXE2.pdb

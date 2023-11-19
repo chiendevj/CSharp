@@ -1,0 +1,16 @@
+H:\My Drive\class\CTDL\Practice\OnTapThi\OnTapThi\bin\Debug\OnTapThi.exe.config
+H:\My Drive\class\CTDL\Practice\OnTapThi\OnTapThi\bin\Debug\OnTapThi.exe
+H:\My Drive\class\CTDL\Practice\OnTapThi\OnTapThi\bin\Debug\OnTapThi.pdb
+H:\My Drive\class\CTDL\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.csproj.AssemblyReference.cache
+H:\My Drive\class\CTDL\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.csproj.SuggestedBindingRedirects.cache
+H:\My Drive\class\CTDL\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.csproj.CoreCompileInputs.cache
+H:\My Drive\class\CTDL\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.exe
+H:\My Drive\class\CTDL\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.pdb
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapThi\OnTapThi\bin\Debug\OnTapThi.exe.config
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapThi\OnTapThi\bin\Debug\OnTapThi.exe
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapThi\OnTapThi\bin\Debug\OnTapThi.pdb
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.exe
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapThi\OnTapThi\obj\Debug\OnTapThi.pdb

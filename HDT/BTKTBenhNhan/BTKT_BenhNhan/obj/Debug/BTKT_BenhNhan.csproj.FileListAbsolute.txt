@@ -1,0 +1,8 @@
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BTKT_BenhNhan\obj\Debug\BTKT_BenhNhan.csproj.AssemblyReference.cache
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BTKT_BenhNhan\obj\Debug\BTKT_BenhNhan.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BTKT_BenhNhan\obj\Debug\BTKT_BenhNhan.csproj.CoreCompileInputs.cache
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BTKT_BenhNhan\bin\Debug\BTKT_BenhNhan.exe.config
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BTKT_BenhNhan\bin\Debug\BTKT_BenhNhan.exe
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BTKT_BenhNhan\bin\Debug\BTKT_BenhNhan.pdb
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BTKT_BenhNhan\obj\Debug\BTKT_BenhNhan.exe
+H:\IT_Language\CSharp\HDT\BTKTBenhNhan\BTKT_BenhNhan\obj\Debug\BTKT_BenhNhan.pdb

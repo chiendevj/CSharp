@@ -1,0 +1,8 @@
+H:\My Drive\class\CTDL\Practice\OnTap\OnTap\bin\Debug\OnTap.exe.config
+H:\My Drive\class\CTDL\Practice\OnTap\OnTap\bin\Debug\OnTap.exe
+H:\My Drive\class\CTDL\Practice\OnTap\OnTap\bin\Debug\OnTap.pdb
+H:\My Drive\class\CTDL\Practice\OnTap\OnTap\obj\Debug\OnTap.csproj.AssemblyReference.cache
+H:\My Drive\class\CTDL\Practice\OnTap\OnTap\obj\Debug\OnTap.csproj.SuggestedBindingRedirects.cache
+H:\My Drive\class\CTDL\Practice\OnTap\OnTap\obj\Debug\OnTap.csproj.CoreCompileInputs.cache
+H:\My Drive\class\CTDL\Practice\OnTap\OnTap\obj\Debug\OnTap.exe
+H:\My Drive\class\CTDL\Practice\OnTap\OnTap\obj\Debug\OnTap.pdb

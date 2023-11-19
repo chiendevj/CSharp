@@ -1,0 +1,13 @@
+D:\Dowload\C5\Bt4_Ch5\bin\Debug\Bt4_Ch5.exe.config
+D:\Dowload\C5\Bt4_Ch5\bin\Debug\Bt4_Ch5.exe
+D:\Dowload\C5\Bt4_Ch5\bin\Debug\Bt4_Ch5.pdb
+D:\Dowload\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.csproj.AssemblyReference.cache
+D:\Dowload\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.csproj.SuggestedBindingRedirects.cache
+D:\Dowload\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.csproj.CoreCompileInputs.cache
+D:\Dowload\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.exe
+D:\Dowload\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.pdb
+E:\IT_Language\CSharp\HDT\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\HDT\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\HDT\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\HDT\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.exe
+E:\IT_Language\CSharp\HDT\C5\Bt4_Ch5\obj\Debug\Bt4_Ch5.pdb

@@ -1,0 +1,14 @@
+D:\BTLinkedList\BT_On\bin\Debug\BT_On.exe.config
+D:\BTLinkedList\BT_On\bin\Debug\BT_On.exe
+D:\BTLinkedList\BT_On\bin\Debug\BT_On.pdb
+D:\BTLinkedList\BT_On\obj\Debug\BT_On.exe
+D:\BTLinkedList\BT_On\obj\Debug\BT_On.pdb
+D:\BTLinkedList\BT_On\obj\Debug\BT_On.csprojResolveAssemblyReference.cache
+H:\IT_Language\CSharp\CDTDLGT\BTLinkedList\BT_On\bin\Debug\BT_On.exe.config
+H:\IT_Language\CSharp\CDTDLGT\BTLinkedList\BT_On\bin\Debug\BT_On.exe
+H:\IT_Language\CSharp\CDTDLGT\BTLinkedList\BT_On\bin\Debug\BT_On.pdb
+H:\IT_Language\CSharp\CDTDLGT\BTLinkedList\BT_On\obj\Debug\BT_On.csproj.AssemblyReference.cache
+H:\IT_Language\CSharp\CDTDLGT\BTLinkedList\BT_On\obj\Debug\BT_On.csproj.SuggestedBindingRedirects.cache
+H:\IT_Language\CSharp\CDTDLGT\BTLinkedList\BT_On\obj\Debug\BT_On.csproj.CoreCompileInputs.cache
+H:\IT_Language\CSharp\CDTDLGT\BTLinkedList\BT_On\obj\Debug\BT_On.exe
+H:\IT_Language\CSharp\CDTDLGT\BTLinkedList\BT_On\obj\Debug\BT_On.pdb

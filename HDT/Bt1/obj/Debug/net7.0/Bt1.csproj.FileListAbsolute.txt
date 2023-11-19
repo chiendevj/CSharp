@@ -1,0 +1,15 @@
+E:\IT_Language\CSharp\HDT\Bt1\bin\Debug\net7.0\Bt1.exe
+E:\IT_Language\CSharp\HDT\Bt1\bin\Debug\net7.0\Bt1.deps.json
+E:\IT_Language\CSharp\HDT\Bt1\bin\Debug\net7.0\Bt1.runtimeconfig.json
+E:\IT_Language\CSharp\HDT\Bt1\bin\Debug\net7.0\Bt1.dll
+E:\IT_Language\CSharp\HDT\Bt1\bin\Debug\net7.0\Bt1.pdb
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\Bt1.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\Bt1.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\Bt1.AssemblyInfoInputs.cache
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\Bt1.AssemblyInfo.cs
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\Bt1.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\Bt1.dll
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\refint\Bt1.dll
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\Bt1.pdb
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\Bt1.genruntimeconfig.cache
+E:\IT_Language\CSharp\HDT\Bt1\obj\Debug\net7.0\ref\Bt1.dll

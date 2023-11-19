@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\HDT\OnTap\OnTap\bin\Debug\OnTap.exe.config
+E:\IT_Language\CSharp\HDT\OnTap\OnTap\bin\Debug\OnTap.exe
+E:\IT_Language\CSharp\HDT\OnTap\OnTap\bin\Debug\OnTap.pdb
+E:\IT_Language\CSharp\HDT\OnTap\OnTap\obj\Debug\OnTap.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\HDT\OnTap\OnTap\obj\Debug\OnTap.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\HDT\OnTap\OnTap\obj\Debug\OnTap.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\HDT\OnTap\OnTap\obj\Debug\OnTap.exe
+E:\IT_Language\CSharp\HDT\OnTap\OnTap\obj\Debug\OnTap.pdb

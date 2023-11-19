@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\HDT\OnTap\OOP_DE3\bin\Debug\OOP_DE3.exe.config
+E:\IT_Language\CSharp\HDT\OnTap\OOP_DE3\bin\Debug\OOP_DE3.exe
+E:\IT_Language\CSharp\HDT\OnTap\OOP_DE3\bin\Debug\OOP_DE3.pdb
+E:\IT_Language\CSharp\HDT\OnTap\OOP_DE3\obj\Debug\OOP_DE3.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\HDT\OnTap\OOP_DE3\obj\Debug\OOP_DE3.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\HDT\OnTap\OOP_DE3\obj\Debug\OOP_DE3.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\HDT\OnTap\OOP_DE3\obj\Debug\OOP_DE3.exe
+E:\IT_Language\CSharp\HDT\OnTap\OOP_DE3\obj\Debug\OOP_DE3.pdb

@@ -1,0 +1,14 @@
+E:\STACK\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\STACK\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\STACK\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\STACK\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\STACK\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\STACK\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\IT_Language\CSharp\CDTDLGT\STACK\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\IT_Language\CSharp\CDTDLGT\STACK\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\IT_Language\CSharp\CDTDLGT\STACK\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\IT_Language\CSharp\CDTDLGT\STACK\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\CDTDLGT\STACK\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\CDTDLGT\STACK\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\CDTDLGT\STACK\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\IT_Language\CSharp\CDTDLGT\STACK\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapChung\bin\Debug\OnTapChung.exe.config
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapChung\bin\Debug\OnTapChung.exe
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapChung\bin\Debug\OnTapChung.pdb
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapChung\obj\Debug\OnTapChung.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapChung\obj\Debug\OnTapChung.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapChung\obj\Debug\OnTapChung.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapChung\obj\Debug\OnTapChung.exe
+E:\IT_Language\CSharp\CDTDLGT\Practice\OnTapChung\obj\Debug\OnTapChung.pdb

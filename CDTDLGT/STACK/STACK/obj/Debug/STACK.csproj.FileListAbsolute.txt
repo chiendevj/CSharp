@@ -1,0 +1,14 @@
+E:\STACK\STACK\bin\Debug\STACK.exe.config
+E:\STACK\STACK\bin\Debug\STACK.exe
+E:\STACK\STACK\bin\Debug\STACK.pdb
+E:\STACK\STACK\obj\Debug\STACK.csprojResolveAssemblyReference.cache
+E:\STACK\STACK\obj\Debug\STACK.exe
+E:\STACK\STACK\obj\Debug\STACK.pdb
+E:\IT_Language\CSharp\CDTDLGT\STACK\STACK\bin\Debug\STACK.exe.config
+E:\IT_Language\CSharp\CDTDLGT\STACK\STACK\bin\Debug\STACK.exe
+E:\IT_Language\CSharp\CDTDLGT\STACK\STACK\bin\Debug\STACK.pdb
+E:\IT_Language\CSharp\CDTDLGT\STACK\STACK\obj\Debug\STACK.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\CDTDLGT\STACK\STACK\obj\Debug\STACK.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\CDTDLGT\STACK\STACK\obj\Debug\STACK.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\CDTDLGT\STACK\STACK\obj\Debug\STACK.exe
+E:\IT_Language\CSharp\CDTDLGT\STACK\STACK\obj\Debug\STACK.pdb

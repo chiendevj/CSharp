@@ -1,0 +1,6 @@
+D:\Chuong4_TinhDaHinh\BT6_Chuong4\bin\Debug\BT6_Chuong4.exe.config
+D:\Chuong4_TinhDaHinh\BT6_Chuong4\bin\Debug\BT6_Chuong4.exe
+D:\Chuong4_TinhDaHinh\BT6_Chuong4\bin\Debug\BT6_Chuong4.pdb
+D:\Chuong4_TinhDaHinh\BT6_Chuong4\obj\Debug\BT6_Chuong4.csprojResolveAssemblyReference.cache
+D:\Chuong4_TinhDaHinh\BT6_Chuong4\obj\Debug\BT6_Chuong4.exe
+D:\Chuong4_TinhDaHinh\BT6_Chuong4\obj\Debug\BT6_Chuong4.pdb

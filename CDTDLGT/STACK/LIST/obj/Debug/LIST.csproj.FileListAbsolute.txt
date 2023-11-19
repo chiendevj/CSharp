@@ -1,0 +1,5 @@
+E:\STACK\LIST\bin\Debug\LIST.exe.config
+E:\STACK\LIST\bin\Debug\LIST.exe
+E:\STACK\LIST\bin\Debug\LIST.pdb
+E:\STACK\LIST\obj\Debug\LIST.exe
+E:\STACK\LIST\obj\Debug\LIST.pdb

@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\ToMauDoThi\bin\Debug\ToMauDoThi.exe.config
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\ToMauDoThi\bin\Debug\ToMauDoThi.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\ToMauDoThi\bin\Debug\ToMauDoThi.pdb
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\ToMauDoThi\obj\Debug\ToMauDoThi.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\ToMauDoThi\obj\Debug\ToMauDoThi.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\ToMauDoThi\obj\Debug\ToMauDoThi.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\ToMauDoThi\obj\Debug\ToMauDoThi.exe
+E:\IT_Language\CSharp\GraphTheory\LTDT\Chap1\ToMauDoThi\obj\Debug\ToMauDoThi.pdb

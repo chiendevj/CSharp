@@ -1,0 +1,8 @@
+E:\IT_Language\CSharp\CDTDLGT\Practice\ThiThu1\bin\Debug\ThiThu1.exe.config
+E:\IT_Language\CSharp\CDTDLGT\Practice\ThiThu1\bin\Debug\ThiThu1.exe
+E:\IT_Language\CSharp\CDTDLGT\Practice\ThiThu1\bin\Debug\ThiThu1.pdb
+E:\IT_Language\CSharp\CDTDLGT\Practice\ThiThu1\obj\Debug\ThiThu1.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\ThiThu1\obj\Debug\ThiThu1.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\ThiThu1\obj\Debug\ThiThu1.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\CDTDLGT\Practice\ThiThu1\obj\Debug\ThiThu1.exe
+E:\IT_Language\CSharp\CDTDLGT\Practice\ThiThu1\obj\Debug\ThiThu1.pdb

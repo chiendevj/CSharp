@@ -1,0 +1,13 @@
+E:\Stack_Ch5\QUEUE\bin\Debug\QUEUE.exe.config
+E:\Stack_Ch5\QUEUE\bin\Debug\QUEUE.exe
+E:\Stack_Ch5\QUEUE\bin\Debug\QUEUE.pdb
+E:\Stack_Ch5\QUEUE\obj\Debug\QUEUE.exe
+E:\Stack_Ch5\QUEUE\obj\Debug\QUEUE.pdb
+E:\IT_Language\CSharp\CDTDLGT\Stack_Ch5\QUEUE\bin\Debug\QUEUE.exe.config
+E:\IT_Language\CSharp\CDTDLGT\Stack_Ch5\QUEUE\bin\Debug\QUEUE.exe
+E:\IT_Language\CSharp\CDTDLGT\Stack_Ch5\QUEUE\bin\Debug\QUEUE.pdb
+E:\IT_Language\CSharp\CDTDLGT\Stack_Ch5\QUEUE\obj\Debug\QUEUE.csproj.AssemblyReference.cache
+E:\IT_Language\CSharp\CDTDLGT\Stack_Ch5\QUEUE\obj\Debug\QUEUE.csproj.SuggestedBindingRedirects.cache
+E:\IT_Language\CSharp\CDTDLGT\Stack_Ch5\QUEUE\obj\Debug\QUEUE.csproj.CoreCompileInputs.cache
+E:\IT_Language\CSharp\CDTDLGT\Stack_Ch5\QUEUE\obj\Debug\QUEUE.exe
+E:\IT_Language\CSharp\CDTDLGT\Stack_Ch5\QUEUE\obj\Debug\QUEUE.pdb
